@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Little Red Riding Hood",
+    "video": "./source/video/Demo1.mp4",
+    "text": "./source/text/little_red_riding_hood.txt"
+  },
+  {
+    "title": "Lord of the Rings (excerpt)",
+    "video": "./source/video/Demo2.mp4",
+    "text": "./source/text/lord_of_the_rings.txt"
+  }
+]
