@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Little Red Riding Hood",
+    "video": "./source/video/Red_Hood.mp4",
+    "text": "./source/text/little_red_riding_hood.txt"
+  },
+  {
+    "title": "The Emperor's New Clothes",
+    "video": "./source/video/Emperor.mp4",
+    "text": "./source/text/emperor.txt"
+  },
+  {
+    "title": "Lord of the Rings (excerpt)",
+    "video": "./source/video/Lord_of_Ring.mp4",
+    "text": "./source/text/lord_of_the_rings.txt"
+  },
+  {
+    "title": "20-year news summary about Apple",
+    "video": "./source/video/Apple.mp4",
+    "text": "./source/text/apple.txt"
+  }
+]
